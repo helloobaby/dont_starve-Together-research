@@ -11,5 +11,5 @@ dst research
 hard for me
 
 
-how to build and test:
+how to build and test: 
 replace (raknet)[https://github.com/facebookarchive/RakNet]MessageFilterTest.cpp and inject this dll to game
